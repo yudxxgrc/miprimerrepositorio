@@ -1,0 +1,14 @@
+https://github.com/yudxxgrc/miprimerrepositorio.git
+
+echo "# miprimerrepositorio" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/yudxxgrc/miprimerrepositorio.git
+git push -u origin main
+
+
+git remote add origin https://github.com/yudxxgrc/miprimerrepositorio.git
+git branch -M main
+git push -u origin main
